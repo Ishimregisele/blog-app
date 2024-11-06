@@ -1,0 +1,9 @@
+function App (){
+  return(
+    <div>
+      <h1 className="text-2xl text-center mb-6">Blog</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure reprehenderit at placeat! Laudantium error consequuntur magni earum accusantium ea deleniti neque ab nisi veritatis, repellendus architecto nulla ad reprehenderit consectetur qui libero vero eum. Nobis quae aspernatur voluptatem totam quasi a quos dolor odit aliquam doloremque? Explicabo ipsum veritatis suscipit saepe dolorem officia! Adipisci, natus animi voluptatum modi maiores recusandae? Mollitia voluptatibus dicta repellat voluptas? Quam ab reiciendis similique dolores. Ut laudantium fuga est recusandae fugiat voluptatum, saepe sit debitis cupiditate accusamus aperiam vel aliquid voluptate atque! Minima vero perspiciatis nostrum voluptatum ea sequi libero recusandae impedit vitae optio similique harum, dicta incidunt soluta natus. Quasi delectus beatae cupiditate nam. Doloribus, sequi. Fugiat dolor, in sed saepe, nulla odio impedit aliquid quam magnam quae officia recusandae maiores tempora cum porro fuga modi voluptas sit dicta. Illo sint quasi exercitationem beatae commodi a obcaecati saepe et voluptatum, maxime ad fugit cupiditate ratione maiores iste deserunt sed aliquid consectetur fugiat laudantium? Quod odio deleniti, aliquam similique alias eius minus quam amet id. Nam laborum nisi explicabo consectetur porro quo vitae, et incidunt impedit aliquam repellat dolorem? Necessitatibus rerum debitis quos aspernatur. A magnam nesciunt ipsam obcaecati omnis explicabo voluptate soluta in fugit!</p>
+    </div>
+  )
+}
+export default App;
